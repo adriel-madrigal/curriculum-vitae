@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=CurriculumVitae
+PRODUCT_BUNDLE_IDENTIFIER=com.adrielmadrigal.curriculumvitae.CurriculumVitae$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
